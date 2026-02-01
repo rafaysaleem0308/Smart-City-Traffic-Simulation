@@ -15,7 +15,23 @@
 - **Adjustable Simulation Speed:** Control vehicle speed dynamically during runtime.
 
 ---
+🎮 Controls
+Key	Action
+R	Restart simulation
+SPACE	Pause / Resume simulation
+UP	Increase vehicle speed
+DOWN	Decrease vehicle speed
 
+🧩 Technologies Used
+Python 3.10+
+
+Pygame for GUI and animation
+
+NetworkX for graph-based routing
+
+python-constraint for traffic light optimization
+
+Object-Oriented Programming (OOP) for modular design
 ## 🛠️ Installation
 
 ### 1. Clone the repository
@@ -27,19 +43,4 @@ cd smart-city-traffic-simulation
 pip install pygame networkx python-constraint
 3. Run the simulation
 python traffic_simulation.py
-🎮 Controls
-Key	Action
-R	Restart simulation
-SPACE	Pause / Resume simulation
-UP	Increase vehicle speed
-DOWN	Decrease vehicle speed
-🧩 Technologies Used
-Python 3.10+
 
-Pygame for GUI and animation
-
-NetworkX for graph-based routing
-
-python-constraint for traffic light optimization
-
-Object-Oriented Programming (OOP) for modular design
