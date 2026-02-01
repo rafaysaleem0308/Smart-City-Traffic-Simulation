@@ -1,4 +1,4 @@
-🏙️ ##Smart City Traffic Simulation
+🏙️Smart City Traffic Simulation
 
 Smart City Traffic Simulation is a Python/Pygame project that models traffic flow in a city grid. The simulation includes vehicles, buses, emergency vehicles, pedestrians, and traffic lights. It uses constraint-based optimization to prioritize emergency vehicles and dynamically adjusts traffic light patterns for efficient traffic flow.
 
