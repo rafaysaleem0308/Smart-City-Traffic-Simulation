@@ -15,11 +15,16 @@
 - **Adjustable Simulation Speed:** Control vehicle speed dynamically during runtime.
 
 ---
-🎮 Controls
+🎮  Controls
+
 Key	Action
+
 R	Restart simulation
+
 SPACE	Pause / Resume simulation
+
 UP	Increase vehicle speed
+
 DOWN	Decrease vehicle speed
 
 🧩 Technologies Used
