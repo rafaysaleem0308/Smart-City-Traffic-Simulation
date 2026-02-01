@@ -19,13 +19,13 @@
 
 Key	Action
 
-R	Restart simulation
+R-Restart simulation
 
-SPACE	Pause / Resume simulation
+SPACE-Pause / Resume simulation
 
-UP	Increase vehicle speed
+UP-Increase vehicle speed
 
-DOWN	Decrease vehicle speed
+DOWN-Decrease vehicle speed
 
 🧩 Technologies Used
 Python 3.10+
